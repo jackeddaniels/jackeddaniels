@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitshopnm.john@gmail.com)
 
 ### About Me
-- 🧑‍💻 I'm an ex-tech recruiter turned software engineer.
+- 🧑‍💻 I'm an ex-tech recruiter (ex-Google, ex-Meta) turned software engineer.
 - 🎓 I'm a graduate of Rithm School, a full stack web development bootcamp.
 - 🍻 I like tech, bodybuilding, MMA, craft beers, movies, video games, and tamales.
 
